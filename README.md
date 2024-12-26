@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Himmans15
+# Hi there! 👋
 
 Welcome to my GitHub profile! I am a passionate developer with a keen interest in open source projects and continuous learning. Here you'll find some of the projects I've been working on, as well as a little bit about my skills and interests.
 
