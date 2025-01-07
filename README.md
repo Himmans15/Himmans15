@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I am a passionate developer with a keen interest i
 
 ## 🛠️ My Skills
 
-- **Languages:** Python, JavaScript, Java, C++
+- **Languages:** Python, JavaScript, C++
 - **Web Development:** HTML, CSS, React, Node.js, Express
 - **Database Management:** MySQL, MongoDB
 - **Version Control:** Git, GitHub
@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I am a passionate developer with a keen interest i
 ## 🌱 Currently Learning
 
 - Advanced React patterns and hooks
-- Cloud computing with AWS
+- EDA using Python libraries
 - Machine learning and data science with Python
 
 
