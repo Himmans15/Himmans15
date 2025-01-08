@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I am a passionate developer with a keen interest i
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/himmans15](https://www.linkedin.com/in/himmans-bhardwaj-92616536146559452735/)
+- [LinkedIn](https://www.linkedin.com/in/himmans-bhardwaj-92616536146559452735/)
 - [Twitter](https://twitter.com/himmans15)
 - [Personal Blog](https://himmans15.github.io/blog)
 
