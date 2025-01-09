@@ -10,6 +10,12 @@ Welcome to my GitHub profile! I am a passionate developer with a keen interest i
 - **Version Control:** Git, GitHub
 - **Tools & Technologies:** EDA, AWS, CI/CD
 
+## Skills
+- ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26)
+- ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+- ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 ## 🌱 Currently Learning
 
 - Advanced React patterns and hooks
