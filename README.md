@@ -8,7 +8,7 @@ I’m a multifaceted Software Engineer with a knack for mastering new technologi
 - **Web Development:** HTML, CSS, React, Node.js, Express
 - **Database Management:** MySQL, MongoDB
 - **Version Control:** Git, GitHub
-- **Tools & Technologies:** EDA, AWS, CI/CD
+- **Tools & Technologies:** EDA, AWS, Vs Code
 
 
 ## 🌱 Currently Learning
