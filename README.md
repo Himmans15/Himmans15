@@ -9,7 +9,7 @@ I’m a multifaceted Software Engineer with a knack for mastering new technologi
 - **Database Management:** MySQL, MongoDB
 - **Version Control:** Git, GitHub
 - **Tools & Technologies:** EDA, AWS, Vs Code
-- **Data Analystics:** Pandas, Matplotlib,
+- **Data Analystics:** Pandas, Matplotlib,Searborn, Sci-kit
 
 ## 🌱 Currently Learning
 
