@@ -5,8 +5,8 @@ I’m a multifaceted Software Engineer with a knack for mastering new technologi
 ## 🛠️ My Skills
 
 - **Languages:** Python, JavaScript, C++
-- **Frontend:** HTML, CSS, React, Next.js,Tailwind css, Bootstrap
-- **Database Management:** MySQL, MongoDB
+- **Frontend Development:** HTML, CSS, React, NextJs,Tailwind css, Bootstrap
+- **Backend Development:** NodeJs, ExpressJs, Django, MongoDB, MySql
 - **Version Control:** Git, GitHub
 - **Tools & Technologies:** EDA, AWS, Vs Code
 - **Data Science/ML:** Pandas, Matplotlib,Searborn, Sci-kit
