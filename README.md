@@ -7,13 +7,12 @@ I’m a multifaceted Software Engineer with a knack for mastering new technologi
 - **Languages:** Python, JavaScript, C++
 - **Frontend Development:** HTML, CSS, React, NextJs,Tailwind css, Bootstrap
 - **Backend Development:** NodeJs, ExpressJs, Django, MongoDB, MySql
-- **Version Control:** Git, GitHub
-- **Tools & Technologies:** EDA, AWS, Vs Code
-- **Data Science/ML:** Pandas, Matplotlib,Searborn, Sci-kit
+- **Tools & Technologies:** Version control(Github), EDA, AWS, Vs Code
+- **Libraries:** Pandas, Matplotlib,Searborn, Sci-kit
 
 ## 🌱 Currently Learning
  
-- Advanced React patterns and hooks
+- Advanced NextJs patterns and hooks
 - EDA using Python libraries
 - Machine learning and data science with Python
 
